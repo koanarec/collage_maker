@@ -1,0 +1,1 @@
+cmd /c "cd collage\bin\Debug\net6.0-windows & Collage.exe & exit"
